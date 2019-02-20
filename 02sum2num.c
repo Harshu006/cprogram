@@ -1,22 +1,19 @@
 /*This program finds sum of two numbers
 Sum of two numbers requires two numbers as input and we take result in third number
-Data Used:
+
 name      -> name of variable
 type      -> data type of variable
 behaviour -> how value is filled
-
 remarks   -> description 
-
+Data Used:
 Name       Type          Behaviour      Remarks
 a          int            Input         container for first number. It can come in output
-b          int            Input         container for first number. It can come in output
+b          int            Input         container for second number. It can come in output
 c          int            Calculation   container for third number. Primary output. 
 Explanation: 
 The program reads two values via scanf() and uses arithmatic operator + to add the values.
 The resultant value is stored in container c. The result is displayed through printf(). 
 getch() waits for user inputting via a keypress enabling user to read the program output on screen.
-
-
 */
 
 main()
