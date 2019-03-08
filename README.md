@@ -1,10 +1,11 @@
 # cprograms
-*** Welcome to example programs for C Programming Language ***
+***Welcome to example programs for C Programming Language***
+***Comments are only for describing the code. DO NOT TYPE THE COMMENTS ( enclosed in /* and */ )     ***
+code is tested on : TurboC Compiler
 
-These code examples are only intended for students who intend to learn C Programming fundamentals.
+***These code examples are originally intended for students who intend to learn C Programming fundamentals.***
 
 Author: Vaibhav Kalia, Astt. Prof.
-
 Contact Email: vaibhav at hillagric dot ac dot in
 
 
