@@ -1,13 +1,19 @@
-# cprograms
-***Welcome to example programs for C Programming Language***
-***Comments are only for describing the code. DO NOT TYPE THE COMMENTS ( enclosed in /* and */ )     ***
-code is tested on : TurboC Compiler
+# cprograms 
+# Example programs for C Programming Language
+## This website complements the C Programming Lectures given to students of CSK HP Agriculture University Palampur HP.
+### Objectives: Problem Solving ability and C Language to implement problem solving.
 
-***These code examples are originally intended for students who intend to learn C Programming fundamentals.***
+> Note: In code samples, Comments are only for describing the code. DO NOT TYPE THE COMMENTS ( enclosed in /* and */ )
 
-Author: Vaibhav Kalia, Astt. Prof.
-Contact Email: vaibhav at hillagric dot ac dot in
+**Code is tested on : TurboC Compiler**
 
+_Author:_ **Vaibhav Kalia**, Astt. Prof.
+
+_Contact Email:_ **vaibhav at hillagric dot ac dot in**
+
+Please feel free to write an email about feedback and your suggestions for improvement of the code samples.
+
+**Important Weblinks:**
 
 Centre for Geo-informatics, COBS, http://14.139.224.135/myapp/cgrt/index.htm 
 
