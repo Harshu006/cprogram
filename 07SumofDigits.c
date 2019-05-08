@@ -32,7 +32,7 @@ getch() waits for a keypress enabling user to read the program output on screen.
 
 int main()
 {
- int num,temp;
+ int num,temp,sum;
  int d1,d2,d3,d4,
  clrscr();
  printf("\nEnter the 4 digit positive number: ");
