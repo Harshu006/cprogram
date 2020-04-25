@@ -17,7 +17,7 @@ a ==  b  (a is equal to  b)
 */
 main()
 {
-  int num;
+  int a,b; 
   
   clrscr();
   printf("\nEnter two numbers: ");
